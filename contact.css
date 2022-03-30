@@ -1,0 +1,24 @@
+nav {
+    text-align: center;
+    font-size: x-large;
+}
+nav a{
+    padding-inline: 80px;
+}
+body{
+    background-image: url("images/white.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 40%;
+}
+img{
+    position: fixed;
+    
+}
+.contacts{
+    text-align: right;
+    padding-top: 20%;
+    margin-right: 20%;
+    font-size: xx-large;
+}
